@@ -1,6 +1,6 @@
-{
+t{
     "language": "en",
-    "keyActive": "",
+    "keyActive": .
     "DeveloperMode": false,
     "autoCreateDB": true,
     "notiGroup": true,
